@@ -97,7 +97,7 @@ HWellbeing/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/Chandu-0604/Hwellbeing.git
+git clone https://github.com/RajshekharDK/Health_care_wellbeing.git
 cd Hwellbeing
 ```
 
@@ -153,10 +153,11 @@ npm run dev
 
 ## 👨‍💻 Author
 
-**Chandan B**
+**Rajshekhar**
 
-* LinkedIn: https://www.linkedin.com/in/chandan-b-2950a626a
-* GitHub: https://github.com/Chandu-0604
+* LinkedIn:  https://www.linkedin.com/in/rajshekhar-dk-239191401
+
+* GitHub: https://github.com/RajshekharDK
 
 ---
 
