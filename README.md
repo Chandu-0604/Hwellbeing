@@ -153,11 +153,9 @@ npm run dev
 
 ## 👨‍💻 Author
 
-**Rajshekhar**
+**Vinayak Chandu**
 
-* LinkedIn:  https://www.linkedin.com/in/rajshekhar-dk-239191401
-
-* GitHub: https://github.com/RajshekharDK
+* GitHub: https://github.com/vinayak822
 
 ---
 
